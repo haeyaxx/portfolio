@@ -270,6 +270,7 @@ h2{
   }
   .hero{
     position: block;
+    margin:auto;
   }
   
   .diamante{
@@ -327,6 +328,7 @@ h2{
   }
   .hero{
     position:block;
+    margin: auto;
     
   }
 
