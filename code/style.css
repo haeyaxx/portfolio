@@ -270,7 +270,7 @@ h2{
   }
   .hero{
     position: block;
-    margin:auto;
+    
   }
   
   .diamante{
@@ -312,6 +312,7 @@ h2{
     top: 30%;
     right: 0%;
     transform: translateY(0%);
+    align-items: center;
   }
 
 }  
@@ -328,7 +329,7 @@ h2{
   }
   .hero{
     position:block;
-    margin: auto;
+    
     
   }
 
@@ -376,6 +377,8 @@ h2{
     top: 10%;
     right: 0%;
     transform: translateY(0%);
+    margin-top: auto;
+    align-items: center;
   }
 
   .menu-btn{
