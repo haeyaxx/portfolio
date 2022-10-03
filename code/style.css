@@ -178,6 +178,7 @@ input[type="checkbox"]{
 
 .apps{ 
     box-sizing: border-box;
+    align-self:flex-start;
     appearance: none;
     background-color: transparent;
     border: 3px solid white;
@@ -185,7 +186,6 @@ input[type="checkbox"]{
     color: white;
     cursor: pointer;
     display: flex;
-    align-self: center;
     font-size: 1rem;
     font-weight: 400;
     line-height: 1;
@@ -391,4 +391,7 @@ h2{
     transform: scale(0.8);
   }
   
+  .apps{
+    transform: scale(0.8);
+  }
 }
