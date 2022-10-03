@@ -270,6 +270,7 @@ h2{
   }
   .hero{
     position: block;
+    height: 600px;
   }
   
   .diamante{
@@ -327,6 +328,7 @@ h2{
   }
   .hero{
     position:block;
+    height: 550px;
   }
 
   .inside{
